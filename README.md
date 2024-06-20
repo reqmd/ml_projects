@@ -1,4 +1,4 @@
-mushrooms - my first binary classification project
+#mushrooms - my first binary classification project
 
 mushrooms.csv - dataset
 mushrooms_catboost.ipynb - solution with catboost model
