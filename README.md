@@ -19,3 +19,7 @@ house_prices_eda.ipynb - my primary analys of dataset
 house_prices_catboost.ipynb - solution with catboost model
 
 house_prices_torch.ipynb - solution with torch neural network
+
+# MNIST classification
+
+mnist_classification.ipynb - solution with torch nerual network
